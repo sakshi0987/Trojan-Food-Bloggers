@@ -1,7 +1,7 @@
-# Future Ready Talent project by Sakshi Kumari
-This is my final Future Ready Talent Program project
+# Future Ready Blog project by Sakshi Kumari
+This is my pre-final year project
 
-## My website offers a variety of things, such as it provides good, heathy and tasty recipes, which are affordable. It also shows some chef special recipes which are very delicious to eat. It helps people find recipes which are healthy but also tasty.
+## My website offers a wide range of services, including economical, good, healthy, and delicious recipes. Additionally, it displays several chef-created dishes that look and taste fantastic. It aids in the discovery of delicious and nutritious dishes.
 
-## Website link:-
-https://gray-beach-028705210.1.azurestaticapps.net/
+
+
